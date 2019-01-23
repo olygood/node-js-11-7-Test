@@ -1,0 +1,19 @@
+{
+  "name": "js-11-7-test",
+  "version": "1.0.0",
+  "description": "test server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olygood/node-js-11-7-Test.git"
+  },
+  "author": "olygood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olygood/node-js-11-7-Test/issues"
+  },
+  "homepage": "https://github.com/olygood/node-js-11-7-Test#readme"
+}
